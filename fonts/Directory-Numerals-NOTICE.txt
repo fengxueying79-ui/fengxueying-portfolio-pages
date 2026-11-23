@@ -1,0 +1,8 @@
+Directory Numerals is a modified digit subset of Orbitron, licensed under
+the SIL Open Font License 1.1. See Orbitron-OFL.txt for the original copyright
+notice and full license, which also applies to this modified font.
+
+Modifications (2026-10-13): instantiated weight 900, replaced the slashed zero
+outline with the matching uppercase O outline while retaining zero's advance
+width and numeric character mapping, subset to digits, and renamed the font
+to Directory Numerals to respect the reserved font name.
